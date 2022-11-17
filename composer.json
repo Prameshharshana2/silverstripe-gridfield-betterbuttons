@@ -15,7 +15,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "dev-feature/ss4-upgrade"
+            "dev-master": "dev-feature/ss4-upgrade-vendor-module"
         },
         "expose": ["css", "images", "javascript"]
     },
